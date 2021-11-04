@@ -1,1 +1,1 @@
-ln -s "$PWD/.gitconfig" ~/.gitconfig
+ln -s "$PWD/gitconfig" ~/.gitconfig
