@@ -1,0 +1,21 @@
+# Intellij IDEa
+.idea/*
+*.iml
+
+# Java 
+*.class
+*.log
+
+# Package Files 
+*.jar
+*.war
+
+# Maven 
+target/
+
+# Gradle 
+.gradle
+build/
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
